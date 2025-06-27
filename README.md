@@ -13,7 +13,7 @@ The following features are available:
 - **clear field:**  
   Delete your field
 
-- **random field:**
+- **random field:**  
   Generate a random field
 
 - **next generation:**  
